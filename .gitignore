@@ -1,0 +1,12 @@
+# This file is used to ignore files and directories in the repository.
+
+# Common files to ignore
+.claude/
+CLAUDE.md
+
+# Test and coverage reports
+coverage.html
+coverage.out
+coverage.txt
+coverage.xml
+report.xml
